@@ -43,4 +43,4 @@ Projeto em JavaScript onde o sistema sorteia um número secreto e o jogador deve
 - Manipulação do DOM
 - Acessibilidade com áudio (Text-to-Speech)
 
-## 📂 Estrutura do projeto
+
