@@ -4,11 +4,7 @@
 //let paragrafo = document.querySelector('p');
 //paragrafo.innerHTML = 'Escolha um numero entre 1 e 20';
 let listaDeNumeroSorteados = [];
-<<<<<<< HEAD
-let numeroLimite = 50
-=======
 let numeroLimite = 100231
->>>>>>> parent of a3ccb88 (Ajusta dificuldade do jogo)
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
