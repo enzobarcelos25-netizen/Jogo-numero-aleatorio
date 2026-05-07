@@ -1,46 +1,46 @@
-# 🎯 Jogo do Número Secreto
+# Jogo do Numero Secreto
 
-Projeto em JavaScript onde o sistema sorteia um número secreto e o jogador deve adivinhar qual é esse número dentro de um intervalo definido.
+Jogo em JavaScript no qual o sistema sorteia um numero secreto e o jogador precisa adivinhar o valor correto.
 
-## 🕹️ Como funciona
-- O jogo sorteia um número aleatório sem repetição
-- O jogador digita um palpite
-- O sistema informa se o número secreto é maior ou menor
-- O jogo continua até o acerto
-- Ao acertar, é exibida a quantidade de tentativas
-- O jogo conta com leitura em voz usando ResponsiveVoice
+## Como funciona
 
-## 🧠 Conceitos utilizados
-- JavaScript básico
-- Funções
-- Estruturas condicionais (`if / else`)
-- Laço de repetição
-- Arrays
-- Geração de números aleatórios
-- Manipulação do DOM
-- Acessibilidade com áudio (Text-to-Speech)
+- O jogo sorteia um numero aleatorio.
+- O jogador digita um palpite.
+- A aplicacao informa se o numero secreto e maior ou menor.
+- O jogo continua ate o acerto.
+- Ao final, mostra a quantidade de tentativas.
+- O projeto tambem pratica feedback visual e interacao com a pagina.
 
-## 📂 Estrutura do projeto
-# 🎯 Jogo do Número Secreto
+## Conceitos utilizados
 
-Projeto em JavaScript onde o sistema sorteia um número secreto e o jogador deve adivinhar qual é esse número dentro de um intervalo definido.
+- JavaScript basico.
+- Funcoes.
+- Estruturas condicionais.
+- Arrays.
+- Geracao de numeros aleatorios.
+- Manipulacao do DOM.
+- Eventos de clique e entrada.
 
-## 🕹️ Como funciona
-- O jogo sorteia um número aleatório sem repetição
-- O jogador digita um palpite
-- O sistema informa se o número secreto é maior ou menor
-- O jogo continua até o acerto
-- Ao acertar, é exibida a quantidade de tentativas
-- O jogo conta com leitura em voz usando ResponsiveVoice
+## Stack
 
-## 🧠 Conceitos utilizados
-- JavaScript básico
-- Funções
-- Estruturas condicionais (`if / else`)
-- Laço de repetição
-- Arrays
-- Geração de números aleatórios
-- Manipulação do DOM
-- Acessibilidade com áudio (Text-to-Speech)
+- HTML5
+- CSS3
+- JavaScript
 
+## Estrutura
 
+```txt
+Jogo-numero-aleatorio/
+  index.html
+  style.css
+  app.js
+  img/
+```
+
+## Como executar
+
+Abra o arquivo `index.html` no navegador.
+
+## Status
+
+Projeto de estudo para praticar logica, DOM e interacao com usuario.
